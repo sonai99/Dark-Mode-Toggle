@@ -1,5 +1,8 @@
 A Light-Dark Mode Toggler created using react styled components
+
 [Live Demo]()
+
+Check out [Styled-Components](https://styled-components.com/)
 
 # Getting Started with Create React App
 
